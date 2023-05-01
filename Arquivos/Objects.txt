@@ -1,0 +1,50 @@
+Objetos Platonicos 1-5:
+	Modificada a escala, rotação, e as medidas em XYZ;
+Cilindro 6:
+	Modificada a escala, rotação, e as medidas em XYZ;
+	Latitude 10, Longitude 10;
+	Latitude 10, Longitude 10;
+	Latitude 12, Longitude 12;
+	Latitude 12, Longitude 12;
+	Latitude 13, Longitude 13;
+	Latitude 13, Longitude 13;
+	Latitude 14, Longitude 14;
+	Latitude 14, Longitude 14;
+	Latitude 15, Longitude 15;
+	Latitude 15, Longitude 15;
+Cone 7:
+	Modificada a escala, rotação, e as medidas em XYZ;
+	Latitude 10, Longitude 10;
+	Latitude 10, Longitude 10;
+	Latitude 12, Longitude 12;
+	Latitude 12, Longitude 12;
+	Latitude 13, Longitude 13;
+	Latitude 13, Longitude 13;
+	Latitude 14, Longitude 14;
+	Latitude 14, Longitude 14;
+	Latitude 15, Longitude 15;
+	Latitude 15, Longitude 15;
+Esfera 8:
+	Modificada a escala, rotação, e as medidas em XYZ;
+	Latitude 10, Longitude 10;
+	Latitude 10, Longitude 10;
+	Latitude 12, Longitude 12;
+	Latitude 12, Longitude 12;
+	Latitude 13, Longitude 13;
+	Latitude 13, Longitude 13;
+	Latitude 14, Longitude 14;
+	Latitude 14, Longitude 14;
+	Latitude 15, Longitude 15;
+	Latitude 15, Longitude 15;
+Toroide 9:
+	Modificada a escala, rotação, e as medidas em XYZ;
+	Latitude 10, Longitude 10, Raio 20, Raio Interno 10
+	Latitude 10, Longitude 10, Raio 22, Raio Interno 9
+	Latitude 12, Longitude 12, Raio 20, Raio Interno 10
+	Latitude 12, Longitude 12, Raio 24, Raio Interno 8
+	Latitude 13, Longitude 13, Raio 20, Raio Interno 10
+	Latitude 13, Longitude 13, Raio 26, Raio Interno 7
+	Latitude 14, Longitude 14, Raio 20, Raio Interno 10
+	Latitude 14, Longitude 14, Raio 28, Raio Interno 6
+	Latitude 15, Longitude 15, Raio 20, Raio Interno 10
+	Latitude 15, Longitude 15, Raio 30, Raio Interno 5

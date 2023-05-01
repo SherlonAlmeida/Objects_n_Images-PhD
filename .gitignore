@@ -1,0 +1,3 @@
+# ignore ALL files in directory
+PlatonicSolidsImages/
+__pycache__/
